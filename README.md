@@ -3,7 +3,7 @@
 
 <p>I'm <strong>Eduardo</strong>, <strong>Full-Stack Web Developer</strong> with an emphasis on <strong>Ruby on Rails</strong>! Passionate about technology, extremely <strong>motivated</strong> and <strong>curious</strong>. Former lawyer, who abandoned the rigidity of laws to create and innovate in the universe of technology!
 
-<div>
+<!-- <div>
   <a href="https://github.com/eduardotps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotps&layout=compact&langs_count=7&theme=default"/>
 </div>
@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-</div>
+</div> -->
   
   ##
  
