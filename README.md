@@ -2,6 +2,7 @@
 
 
 <p>I'm <strong>Eduardo</strong>, <strong>Full-Stack Web Developer</strong> with an emphasis on <strong>Ruby on Rails</strong>! Passionate about technology, extremely <strong>motivated</strong> and <strong>curious</strong>. Former lawyer, who abandoned the rigidity of laws to create and innovate in the universe of technology!
+<p>Currently, I'm pursuing my degree in Computer Science at PUC-PR (Pontifícia Universidade Católica do Paraná), constantly expanding my horizons in the tech field!
 
 <!-- <div>
   <a href="https://github.com/eduardotps">
