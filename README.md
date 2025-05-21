@@ -1,7 +1,7 @@
 ## Hello World ! 🌎
 
 
-I'm <strong>Eduardo</strong>, <strong> Web Developer</strong> with an emphasis on <strong>Ruby on Rails</strong>! Passionate about technology, extremely <strong>motivated</strong> and <strong>curious</strong>. Former lawyer, who abandoned the rigidity of laws to create and innovate in the universe of technology!
+I'm <strong>Eduardo</strong>, a <strong>Web Developer</strong> with a focus on <strong>Ruby on Rails</strong>, currently diving into the world of <strong>Swift</strong> and iOS development. Passionate about technology, extremely <strong>motivated</strong> and <strong>curious</strong>. Former lawyer, who abandoned the rigidity of laws to create and innovate in the universe of technology!
 
 
 <div align="center">
